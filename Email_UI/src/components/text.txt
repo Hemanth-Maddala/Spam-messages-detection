@@ -1,0 +1,1 @@
+use api for tanslating the hindi to english or telugu to english text for spam detection
